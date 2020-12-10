@@ -46,6 +46,9 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
+  ORCID: 0000-0002-5971-9365
+  researchgate: Hannah_Marley
+  google-scholar: citations?user=rsFnxvAAAAAJ&hl=en
   linkedin: hannah-marley
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -59,9 +62,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: 0000-0002-5971-9365
-  google-scholar: citations?user=rsFnxvAAAAAJ&hl=en
-  researchgate: Hannah_Marley
+  
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
