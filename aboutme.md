@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hannah Marley
-cover-img: "/assets/img/Sunset2.png"
+cover-img: "/assets/img/Sunset3.png"
 ---
 <img src="/assets/img/chem_prep_round.png" alt="Profile" class="center" width="300" height="300"> 
 
