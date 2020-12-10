@@ -14,9 +14,9 @@ author: Hannah Marley
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "aboutme"
+  #Home: "index"
+  About Me: "aboutme"
   Research Snippets: "/research_snippets"
-  #About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -190,7 +190,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "New Zealand/Auckland"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
