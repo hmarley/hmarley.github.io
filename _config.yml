@@ -15,9 +15,9 @@ author: Hannah Marley
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "someone@example.com"
+  email: "hannahmarley@outlook.co.nz"
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
@@ -61,6 +61,7 @@ social-network-links:
 #  mastodon: instance.url/@username
   ORCID: https://orcid.org/0000-0002-5971-9365
   google-scholar: https://scholar.google.com/citations?user=rsFnxvAAAAAJ&hl=en
+  ResearchGate: https://www.researchgate.net/profile/Hannah_Marley
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
