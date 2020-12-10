@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hannahmarley@outlook.co.nz"
+#  email: "hannahmarley@outlook.co.nz"
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
@@ -59,9 +59,9 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5971-9365" href="https://orcid.org/0000-0002-5971-9365" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5971-9365</a></div>
-  google-scholar: https://scholar.google.com/citations?user=rsFnxvAAAAAJ&hl=en
-  ResearchGate: https://www.researchgate.net/profile/Hannah_Marley
+  ORCID: "https://orcid.org/0000-0002-5971-9365"
+  google-scholar: "https://scholar.google.com/citations?user=rsFnxvAAAAAJ&hl=en"
+  ResearchGate: "https://www.researchgate.net/profile/Hannah_Marley"
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
