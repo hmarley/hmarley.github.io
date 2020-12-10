@@ -17,6 +17,7 @@ navbar-links:
   #Home: "index"
   Research Snippets: "/research_snippets"
   Presentations: "/presentations"
+  PhD Extras: "/phd_extras"
   About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
