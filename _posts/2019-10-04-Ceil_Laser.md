@@ -10,6 +10,6 @@ Today, with the help of the techncian, I installed a new laser in the ceilometer
 
 Here is a photo of inside the ceilometer and a photo of the old laser:
 
-![Inside the ceilometer](/assets/img/Ceilometer_inside.jpg =0.5x)
-![Old laser](/assets/img/Laser_20200406_143416b.jpg =0.5x)
+![Inside the ceilometer](/assets/img/Ceilometer_inside.jpg =10x)
+![Old laser](/assets/img/Laser_20200406_143416b.jpg =50x)
 
