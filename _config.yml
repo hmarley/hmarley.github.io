@@ -15,9 +15,9 @@ author: Hannah Marley
 
 navbar-links:
   #Home: "index"
-  About Me: "aboutme"
   Research Snippets: "/research_snippets"
   Presentations: "/presentations"
+  About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
