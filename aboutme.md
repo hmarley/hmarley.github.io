@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hannah Marley
-cover-img: "/assets/img/chem_prep_round.png"
+thumbnail-img: "/assets/img/chem_prep_round.png"
 ---
 
 Hi, I'm Hannah, an atmospheric scientist, based in Palmerston North, New Zealand. I am currently working towards a PhD through The University of Auckland. 
