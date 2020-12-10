@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hannah Marley
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Hannah I'm an atmospheric scientist, based in Palmerston North, New Zealand. I am currently working towards a PhD through The University of Auckland. My research focuses on using a LiDAR ceilometer instrument to investigate the structure and dynamics of the atmospheric boundary layer over Auckland City. My project aims to develop a climatology of boundary layer characteristics, examine the underlying processes which drive boundary layer variability, and explore the influence of the boundary layer on air pollution.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
