@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MetSoc 2020 - Student session presentation
-tags: atmospheric science, boundary-layer meteorology, convective boundary layer, climatology
+tags: ["atmospheric science", "boundary-layer meteorology", "convective boundary layer", "climatology"]
 categories: /presentations
 comments: false
 ---
