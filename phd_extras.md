@@ -2,7 +2,7 @@
 layout: home-onlyshow
 title: PhD Extras
 subtitle: Here are a few fun extra things I've been able to do during my PhD
-cover-img: "/assets/img/Mavora_lakes.jpg"
+cover-img: "/assets/img/Mt_Ngauruhoe_cloud.jpg"
 onlyshow: /phd_extras
 ---
 
