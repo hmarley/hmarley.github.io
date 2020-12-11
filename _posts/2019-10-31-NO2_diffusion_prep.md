@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preparing equipment for air quality measurement
-tags: air quality, atmospheric science
+tags: ["air quality", "atmospheric science"]
 categories: /phd_extras
 comments: false
 ---
