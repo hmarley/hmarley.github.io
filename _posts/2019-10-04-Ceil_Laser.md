@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changing the ceilometer laser
-tags: ["atmospheric science", "boundary-layer meteorology", "ceilometer"]
+tags: ["atmospheric science", "atmospheric boundary layer", "planetary boundary layer", "boundary-layer meteorology", "ceilometer"]
 categories: /phd_extras
 comments: false
 ---
